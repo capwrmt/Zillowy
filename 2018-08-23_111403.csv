@@ -1,0 +1,132 @@
+address,city,state,zip,price,sqft,bedrooms,bathrooms,days_on_zillow,sale_type,url
+190 Main St,WAYLAND,MA,01778,540000,1292.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/190-Main-St-Wayland-MA-01778/57126930_zpid/
+41 Stonebridge Rd,WAYLAND,MA,01778,639000,1697.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/41-Stonebridge-Rd-Wayland-MA-01778/57125181_zpid/
+16 Saddlebrook Rd,Natick,MA,01778,1695000,9279.0,6.0,9.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/16-Saddlebrook-Rd-Natick-MA-01778/56293853_zpid/
+15 River Rock Way # 15,Wayland,MA,01778,849000,2683.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-River-Rock-Way-15-Wayland-MA-01778/2088174769_zpid/
+108 Sears Rd,WAYLAND,MA,01778,979000,3200.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/108-Sears-Rd-Wayland-MA-01778/57123524_zpid/
+20 Fox Meadow Ln,WAYLAND,MA,01778,888000,3100.0,4.0,4.0,86,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/20-Fox-Meadow-Ln-Wayland-MA-01778/57125018_zpid/
+124 Plain Rd,WAYLAND,MA,01778,995000,3700.0,6.0,5.0,22,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/124-Plain-Rd-Wayland-MA-01778/57123997_zpid/
+74 Claypit Hill Rd,WAYLAND,MA,01778,1250000,4242.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/74-Claypit-Hill-Rd-Wayland-MA-01778/57123950_zpid/
+193 Rice Rd,WAYLAND,MA,01778,2699000,8500.0,5.0,8.0,55,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/193-Rice-Rd-Wayland-MA-01778/57124694_zpid/
+4 Yeager Way,WAYLAND,MA,01778,1350000,5350.0,5.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-Yeager-Way-Wayland-MA-01778/57125026_zpid/
+309 Willow Brook Dr # 309,Wayland,MA,01778,729000,3269.0,2.0,3.0,41,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/309-Willow-Brook-Dr-309-Wayland-MA-01778/2088653354_zpid/
+105 Plain Rd,WAYLAND,MA,01778,2495000,5810.0,6.0,6.0,47,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/105-Plain-Rd-Wayland-MA-01778/57123993_zpid/
+61 Three Ponds Rd,Wayland,MA,01778,979000,3096.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/61-Three-Ponds-Rd-Wayland-MA-01778/57123658_zpid/
+37 Aqueduct Rd,WAYLAND,MA,01778,670000,1739.0,3.0,2.0,127,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/37-Aqueduct-Rd-Wayland-MA-01778/57126569_zpid/
+17 Steepletree Ln # 17,Wayland,MA,01778,579000,1562.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/17-Steepletree-Ln-17-Wayland-MA-01778/2088813108_zpid/
+64 School St,WAYLAND,MA,01778,795000,2200.0,3.0,3.0,184,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/64-School-St-Wayland-MA-01778/57126598_zpid/
+9 Hickory Hill Rd,WAYLAND,MA,01778,989000,3421.0,4.0,4.0,121,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9-Hickory-Hill-Rd-Wayland-MA-01778/57123441_zpid/
+7 Folsom Pond Rd,WAYLAND,MA,01778,1020000,3702.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-Folsom-Pond-Rd-Wayland-MA-01778/57123477_zpid/
+1 Green Way,Wayland,MA,01778,1225000,4807.0,4.0,4.0,92,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Green-Way-Wayland-MA-01778/166026108_zpid/
+46 Cutting Cross Way,Wayland,MA,01778,699000,1885.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/46-Cutting-Cross-Way-Wayland-MA-01778/166027474_zpid/
+7 Mellen Ln,WAYLAND,MA,01778,2195000,6464.0,6.0,6.0,68,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-Mellen-Ln-Wayland-MA-01778/57123932_zpid/
+42 Dean Rd,WAYLAND,MA,01778,635000,2116.0,4.0,3.0,379,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/42-Dean-Rd-Wayland-MA-01778/57127114_zpid/
+198 W Plain St,WAYLAND,MA,01778,700000,2174.0,4.0,3.0,132,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/198-W-Plain-St-Wayland-MA-01778/57126125_zpid/
+5 Rice Rd,Wayland,MA,01778,1399000,4950.0,4.0,5.0,21,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5-Rice-Rd-Wayland-MA-01778/2088381420_zpid/
+33 Whispering Ln,Wayland,MA,01778,1599000,6354.0,5.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-Whispering-Ln-Wayland-MA-01778/166026208_zpid/
+203 Hayfield Ln # 203,Wayland,MA,01778,1769000,3289.0,3.0,6.0,166,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/203-Hayfield-Ln-203-Wayland-MA-01778/2090714777_zpid/
+19 & 21 Training Field Rd,Wayland,MA,01778,1600000,NA,NA,NA,308,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/19-21-Training-Field-Rd-Wayland-MA-01778/2092368991_zpid/
+Russell Rd,WAYLAND,MA,01778,NA,1432.0,3.0,1.5,105,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/166148624_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Cochituate Rd,WAYLAND,MA,01778,NA,1456.0,3.0,1.5,63,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/248999287_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Old Sudbury Rd,WAYLAND,MA,01778,NA,3856.0,6.0,3.5,91,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/244577930_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+White Rd,WAYLAND,MA,01778,NA,1278.0,3.0,1.5,70,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/248922570_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Draper Rd,WAYLAND,MA,01778,NA,2611.0,3.0,2.0,170,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/246126916_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+W Plain St,WAYLAND,MA,01778,NA,1385.0,3.0,2.0,164,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/246622205_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Millbrook Rd,WAYLAND,MA,01778,NA,1704.0,2.0,2.5,91,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/248608049_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+23 Country Dr,WESTON,MA,02493,3956000,7500.0,5.0,8.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/23-Country-Dr-Weston-MA-02493/57136806_zpid/
+83 Viles St,WESTON,MA,02493,940000,2340.0,3.0,3.0,NA,Coming Soon,http://www.zillow.com/homes/for_sale//homedetails/83-Viles-St-Weston-MA-02493/57135328_zpid/
+50 Winsor Way,WESTON,MA,02493,18500000,21450.0,7.0,13.0,131,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/50-Winsor-Way-Weston-MA-02493/57135978_zpid/
+338 Conant Rd,WESTON,MA,02493,790000,1646.0,3.0,2.0,5,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/338-Conant-Rd-Weston-MA-02493/57134851_zpid/
+Willow Rd,Weston,MA,02493,18900000,17446.0,7.0,11.0,132,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/Willow-Rd-Weston-MA-02493/2090114973_zpid/
+316-320 Wellesley St,Weston,MA,02493,12999999,20000.0,7.0,9.0,794,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/316-320-Wellesley-St-Weston-MA-02493/2098173534_zpid/
+67 Kings Grant Rd,WESTON,MA,02493,3595000,7985.0,5.0,7.0,2,New Construction,http://www.zillow.com/homes/for_sale//homedetails/67-Kings-Grant-Rd-Weston-MA-02493/57134943_zpid/
+154 Winter St,WESTON,MA,02493,1025000,2200.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/154-Winter-St-Weston-MA-02493/57137017_zpid/
+121 Rolling Ln,WESTON,MA,02493,7500000,9111.0,5.0,7.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/121-Rolling-Ln-Weston-MA-02493/57136058_zpid/
+63 Cart Path Rd,WESTON,MA,02493,13900000,14384.0,7.0,12.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/63-Cart-Path-Rd-Weston-MA-02493/57136432_zpid/
+2 Laxfield Rd,WESTON,MA,02493,12500000,15031.0,7.0,9.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2-Laxfield-Rd-Weston-MA-02493/57135635_zpid/
+33 Bullard Rd,WESTON,MA,02493,12999000,NA,NA,8.0,105,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-Bullard-Rd-Weston-MA-02493/57136963_zpid/
+211 Westerly Rd,WESTON,MA,02493,7225000,10016.0,6.0,7.0,100,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/211-Westerly-Rd-Weston-MA-02493/57136344_zpid/
+30 Hillcrest Rd,WESTON,MA,02493,1590000,3869.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/30-Hillcrest-Rd-Weston-MA-02493/57135756_zpid/
+125 Loring Rd,WESTON,MA,02493,998000,3435.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/125-Loring-Rd-Weston-MA-02493/57136501_zpid/
+36 Church St,WESTON,MA,02493,900000,4848.0,8.0,4.0,62,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/36-Church-St-Weston-MA-02493/57135686_zpid/
+69 Aberdeen Rd,WESTON,MA,02493,1295000,2800.0,3.0,3.0,34,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/69-Aberdeen-Rd-Weston-MA-02493/57135174_zpid/
+8 Claridge Dr,WESTON,MA,02493,4475000,11000.0,4.0,7.0,520,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-Claridge-Dr-Weston-MA-02493/57134341_zpid/
+55 Love Ln,WESTON,MA,02493,12000000,10537.0,7.0,8.0,343,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-Love-Ln-Weston-MA-02493/57136162_zpid/
+863 Boston Post Rd,WESTON,MA,02493,1580000,6080.0,6.0,6.0,98,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/863-Boston-Post-Rd-Weston-MA-02493/57135767_zpid/
+101 Concord Rd,WESTON,MA,02493,2495000,6008.0,5.0,5.5,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/101-Concord-Rd-Weston-MA-02493/57135403_zpid/
+597 South Ave,WESTON,MA,02493,1075000,2335.0,4.0,3.0,17,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/597-South-Ave-Weston-MA-02493/57136846_zpid/
+11 Willard Rd,WESTON,MA,02493,849000,1450.0,2.0,2.0,45,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/11-Willard-Rd-Weston-MA-02493/57134772_zpid/
+40 Radcliffe Rd,WESTON,MA,02493,2980000,5386.0,5.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-Radcliffe-Rd-Weston-MA-02493/57137350_zpid/
+59 Shady Hill Rd,WESTON,MA,02493,1198000,2165.0,3.0,2.0,56,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/59-Shady-Hill-Rd-Weston-MA-02493/57137540_zpid/
+2 Raynor Rd,Weston,MA,02493,1200000,2820.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2-Raynor-Rd-Weston-MA-02493/2088368057_zpid/
+62 Golden Ball Rd,WESTON,MA,02493,1259000,2400.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/62-Golden-Ball-Rd-Weston-MA-02493/57136183_zpid/
+90 Westerly Rd,WESTON,MA,02493,1679000,4620.0,5.0,4.0,100,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/90-Westerly-Rd-Weston-MA-02493/57136350_zpid/
+36 Pine St,WESTON,MA,02493,2500000,5435.0,5.0,7.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/36-Pine-St-Weston-MA-02493/57136830_zpid/
+29 Page Rd,WESTON,MA,02493,1745000,4572.0,5.0,4.0,8,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/29-Page-Rd-Weston-MA-02493/57135350_zpid/
+1 Wits End,Weston,MA,02493,2649000,7301.0,5.0,8.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Wits-End-Weston-MA-02493/57137433_zpid/
+49 Nobscot Rd,WESTON,MA,02493,5295000,7770.0,5.0,6.0,32,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/49-Nobscot-Rd-Weston-MA-02493/57136363_zpid/
+2 Fields Pond Rd,Weston,MA,02493,2495000,6099.0,5.0,5.0,9,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2-Fields-Pond-Rd-Weston-MA-02493/57136884_zpid/
+50 Meadowbrook Rd,WESTON,MA,02493,3450000,5460.0,4.0,5.0,489,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/50-Meadowbrook-Rd-Weston-MA-02493/57136464_zpid/
+348 Boston Post Rd,WESTON,MA,02493,1849000,5658.0,7.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/348-Boston-Post-Rd-Weston-MA-02493/57135905_zpid/
+148 Sudbury Rd,WESTON,MA,02493,1125000,2493.0,5.0,4.0,110,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/148-Sudbury-Rd-Weston-MA-02493/57135010_zpid/
+21 Chestnut St,WESTON,MA,02493,6250000,12000.0,6.0,8.0,929,New Construction,http://www.zillow.com/homes/for_sale//homedetails/21-Chestnut-St-Weston-MA-02493/57136211_zpid/
+2 Meadowbrook Rd,WESTON,MA,02493,6448000,9396.0,6.0,8.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2-Meadowbrook-Rd-Weston-MA-02493/57136518_zpid/
+8 Scotch Pine Rd,WESTON,MA,02493,3999000,8500.0,5.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-Scotch-Pine-Rd-Weston-MA-02493/57137567_zpid/
+45 Hilltop Rd,WESTON,MA,02493,3999999,11554.0,6.0,10.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/45-Hilltop-Rd-Weston-MA-02493/57134334_zpid/
+319 Glen Rd,WESTON,MA,02493,2795000,5663.0,5.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/319-Glen-Rd-Weston-MA-02493/57137179_zpid/
+387 Wellesley St,WESTON,MA,02493,2888800,9115.0,5.0,6.0,127,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/387-Wellesley-St-Weston-MA-02493/57136716_zpid/
+752 Wellesley St,WESTON,MA,02493,1495000,3719.0,4.0,4.0,78,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/752-Wellesley-St-Weston-MA-02493/57137696_zpid/
+41 Church St # 41,Weston,MA,02493,575000,1500.0,2.0,2.0,30,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/41-Church-St-41-Weston-MA-02493/2088505487_zpid/
+68 Robin Rd,WESTON,MA,02493,2495000,5197.0,5.0,4.0,90,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/68-Robin-Rd-Weston-MA-02493/57136306_zpid/
+7 Cutters Blf,WESTON,MA,02493,2875000,6510.0,5.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-Cutters-Blf-Weston-MA-02493/123562687_zpid/
+12 Westerly Rd,WESTON,MA,02493,4695000,9286.0,6.0,9.0,203,New Construction,http://www.zillow.com/homes/for_sale//homedetails/12-Westerly-Rd-Weston-MA-02493/57136139_zpid/
+21 Plain Rd,WESTON,MA,02493,1799900,6000.0,5.0,6.0,25,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/21-Plain-Rd-Weston-MA-02493/57135765_zpid/
+501 Glen Rd,WESTON,MA,02493,3500000,8034.0,5.0,8.0,84,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/501-Glen-Rd-Weston-MA-02493/57137090_zpid/
+22 Church St,WESTON,MA,02493,4150000,6448.0,7.0,5.0,67,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/22-Church-St-Weston-MA-02493/57135685_zpid/
+100 Orchard Ave,WESTON,MA,02493,4490000,8663.0,6.0,6.0,699,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/100-Orchard-Ave-Weston-MA-02493/59213891_zpid/
+110 Walker St,WESTON,MA,02493,3999000,5500.0,5.0,6.0,124,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/110-Walker-St-Weston-MA-02493/57136215_zpid/
+332 Conant Rd,WESTON,MA,02493,949000,2116.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/332-Conant-Rd-Weston-MA-02493/57134802_zpid/
+30 Cedar Rd,WESTON,MA,02493,4199000,8000.0,5.0,7.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/30-Cedar-Rd-Weston-MA-02493/57136309_zpid/
+18 Wildflower Ln,WESTON,MA,02493,3688000,8338.0,7.0,6.0,488,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/18-Wildflower-Ln-Weston-MA-02493/57136588_zpid/
+107 Concord Rd,Weston,MA,02493,2750000,6575.0,5.0,5.5,68,New Construction,http://www.zillow.com/homes/for_sale//homedetails/107-Concord-Rd-Weston-MA-02493/166056637_zpid/
+25 Jericho Rd # 25,Weston,MA,02493,629900,1359.0,2.0,2.0,92,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/25-Jericho-Rd-25-Weston-MA-02493/2089415107_zpid/
+7 Prescott Ln,WESTON,MA,02493,2195000,6266.0,5.0,6.0,155,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-Prescott-Ln-Weston-MA-02493/57134448_zpid/
+12 Davenport Rd,WESTON,MA,02493,2999000,6950.0,5.0,8.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/12-Davenport-Rd-Weston-MA-02493/57136236_zpid/
+55 Hidden Rd,WESTON,MA,02493,3800000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-Hidden-Rd-Weston-MA-02493/57136271_zpid/
+36 Walnut Rd,WESTON,MA,02493,4495000,9038.0,5.0,7.0,135,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/36-Walnut-Rd-Weston-MA-02493/57137395_zpid/
+39 Walnut Rd,WESTON,MA,02493,1675000,2216.0,5.0,3.0,98,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/39-Walnut-Rd-Weston-MA-02493/57137370_zpid/
+40 Sherburn Cir,WESTON,MA,02493,2299000,5031.0,5.0,5.0,83,New Construction,http://www.zillow.com/homes/for_sale//homedetails/40-Sherburn-Cir-Weston-MA-02493/57137735_zpid/
+400 Concord Rd,WESTON,MA,02493,4990000,8600.0,5.0,8.0,1016,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/400-Concord-Rd-Weston-MA-02493/57135014_zpid/
+211 Meadowbrook Rd,WESTON,MA,02493,4250000,7366.0,5.0,6.0,294,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/211-Meadowbrook-Rd-Weston-MA-02493/57136267_zpid/
+79 Walnut Rd,WESTON,MA,02493,4495000,8500.0,5.0,7.0,461,New Construction,http://www.zillow.com/homes/for_sale//homedetails/79-Walnut-Rd-Weston-MA-02493/57137365_zpid/
+33 Juniper Rd,WESTON,MA,02493,3145000,7256.0,4.0,5.0,42,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-Juniper-Rd-Weston-MA-02493/57134628_zpid/
+289 Wellesley St,WESTON,MA,02493,3450000,8000.0,5.0,4.5,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/289-Wellesley-St-Weston-MA-02493/57136652_zpid/
+262 Glen Rd,WESTON,MA,02493,1800000,3736.0,4.0,6.0,153,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/262-Glen-Rd-Weston-MA-02493/57137601_zpid/
+54 Bullard Rd,WESTON,MA,02493,1649000,3395.0,5.0,4.0,65,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/54-Bullard-Rd-Weston-MA-02493/57136980_zpid/
+101 Bogle St,WESTON,MA,02493,2995000,7866.0,5.0,7.0,345,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/101-Bogle-St-Weston-MA-02493/57137381_zpid/
+91 Fairview Rd,WESTON,MA,02493,2595000,7825.0,5.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/91-Fairview-Rd-Weston-MA-02493/57134381_zpid/
+72 Rockport Rd,WESTON,MA,02493,3195000,5239.0,4.0,5.0,55,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/72-Rockport-Rd-Weston-MA-02493/57137555_zpid/
+11 Plymouth Rd,WESTON,MA,02493,2690000,7700.0,6.0,8.0,130,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-Plymouth-Rd-Weston-MA-02493/57134578_zpid/
+36 Laxfield Rd,WESTON,MA,02493,1724000,3864.0,4.0,4.0,82,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/36-Laxfield-Rd-Weston-MA-02493/57135640_zpid/
+26 Cerulean Way,WESTON,MA,02493,2250000,6285.0,4.0,4.0,107,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/26-Cerulean-Way-Weston-MA-02493/57134672_zpid/
+2 Nottingham Ln,WESTON,MA,02493,2365000,6065.0,4.0,6.0,166,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2-Nottingham-Ln-Weston-MA-02493/57134443_zpid/
+36 Bradyll Road,Weston,MA,02493,1225000,2569.0,4.0,3.0,210,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/36-Bradyll-Road-Weston-MA-02493/2099324847_zpid/
+24 Longmeadow Rd,WESTON,MA,02493,1675000,5300.0,4.0,3.0,91,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/24-Longmeadow-Rd-Weston-MA-02493/57135114_zpid/
+52 Arrowhead Rd,WESTON,MA,02493,1599000,3470.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/52-Arrowhead-Rd-Weston-MA-02493/57135060_zpid/
+27 Saddle Hill Rd,WESTON,MA,02493,2485000,6569.0,5.0,5.0,81,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/27-Saddle-Hill-Rd-Weston-MA-02493/57135511_zpid/
+23 Pine Summit Cir # 23PSC,Weston,MA,02493,2225000,4594.0,4.0,5.0,371,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/23-Pine-Summit-Cir-23PSC-Weston-MA-02493/2103402625_zpid/
+2 Kettle Ln # 2,Weston,MA,02493,2850000,5786.0,4.0,6.0,166,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2-Kettle-Ln-2-Weston-MA-02493/2090710938_zpid/
+120 Rockport Rd,Weston,MA,02493,850000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/120-Rockport-Rd-Weston-MA-02493/2093751351_zpid/
+10 Ridgehurst Cir,WESTON,MA,02493,2375000,4729.0,4.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/10-Ridgehurst-Cir-Weston-MA-02493/99239040_zpid/
+55 Coburn Rd LOT 1,Weston,MA,02493,899000,NA,NA,NA,93,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-Coburn-Rd-LOT-1-Weston-MA-02493/2095674777_zpid/
+23 Pine Summit Cir,Weston,MA,02493,2225000,4594.0,4.0,5.0,371,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/23-Pine-Summit-Cir-Weston-MA-02493/2102184639_zpid/
+7 Pine Summit Cir,Weston,MA,02493,3350000,5717.0,5.0,5.0,434,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-Pine-Summit-Cir-Weston-MA-02493/2093853768_zpid/
+687 Boston Post Rd,WESTON,MA,02493,2195000,4371.0,5.0,5.0,142,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/687-Boston-Post-Rd-Weston-MA-02493/57135812_zpid/
+60 Old Rd,WESTON,MA,02493,1100000,NA,NA,NA,442,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/60-Old-Rd-Weston-MA-02493/57134333_zpid/
+12 Dellbrook Rd,WESTON,MA,02493,2485000,1841.0,2.0,2.0,406,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/12-Dellbrook-Rd-Weston-MA-02493/57136319_zpid/
+7 Pine Summit Cir # 7,Weston,MA,02493,3350000,5717.0,5.0,5.0,469,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-Pine-Summit-Cir-7-Weston-MA-02493/2094295274_zpid/
+0 Conant Rd # L:2,Weston,MA,02493,999900,NA,NA,NA,77,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/0-Conant-Rd-L2-Weston-MA-02493/2089184274_zpid/
+Hallett Hill Rd,WESTON,MA,02493,NA,2025.0,4.0,2.5,91,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/166148544_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+North Ave,Weston,MA,02493,NA,3950.0,4.0,3.0,476,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/190893474_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Crescent St,Weston,MA,02493,NA,3026.0,5.0,3.5,286,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/240065071_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Shady Hill Rd,WESTON,MA,02493,NA,3631.0,5.0,4.5,146,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/247210066_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
