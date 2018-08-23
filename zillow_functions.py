@@ -28,7 +28,9 @@ def init_driver(file_path):
     # Starting maximized fixes https://github.com/ChrisMuir/Zillow/issues/1
     options = webdriver.ChromeOptions()
     options.add_argument("--start-maximized")
-    driver = webdriver.Chrome(executable_path=file_path, 
+    options.add_argument("user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36")
+
+    driver = webdriver.Chrome(executable_path=file_path,
                               chrome_options=options)
     driver.wait = WebDriverWait(driver, 10)
     return(driver)
@@ -49,9 +51,9 @@ def _is_element_displayed(driver, elem_text, elem_type):
         raise ValueError("arg 'elem_type' must be either 'class' or 'css'")
     return(out)
 
-# If captcha page is displayed, this function will run indefinitely until the 
+# If captcha page is displayed, this function will run indefinitely until the
 # captcha page is no longer displayed (checks for it every 30 seconds).
-# Purpose of the function is to "pause" execution of the scraper until the 
+# Purpose of the function is to "pause" execution of the scraper until the
 # user has manually completed the captcha requirements.
 def _pause_for_captcha(driver):
     while True:
@@ -59,7 +61,7 @@ def _pause_for_captcha(driver):
         if not _is_element_displayed(driver, "captcha-container", "class"):
             break
 
-# Check to see if the page is currently stuck on a captcha page. If so, pause 
+# Check to see if the page is currently stuck on a captcha page. If so, pause
 # the scraper until user has manually completed the captcha requirements.
 def check_for_captcha(driver):
     if _is_element_displayed(driver, "captcha-container", "class"):
@@ -83,6 +85,37 @@ def click_buy_button(driver):
     except (TimeoutException, NoSuchElementException):
         raise ValueError("Clicking the 'Buy' button failed")
     # Check to make sure a captcha page is not displayed.
+    check_for_captcha(driver)
+
+# click the recently sold button and unselect any other checkboxes
+def click_recently_sold_button(driver):
+    try:
+        # class=filter-menu listings-menu menu-open, id=yui_3_18_1_1_1535050344597_11000
+        # ID=rs-listings-input
+        driver.find_element_by_id("listings-menu-label").click()
+        #checkbox = driver.find_element_by_id("rs-listings-input")
+        ## //span[@class='a-label a-checkbox-label' and contains(text(),'Books')
+        checkbox = driver.find_element_by_xpath("//span[@class='listing-type-text' and contains(text(), 'Recently Sold')]")
+        if not checkbox.is_selected():
+            checkbox.click()
+            time.sleep(10)
+        forsale = driver.find_element_by_xpath("//span[@class='listing-type-text' and contains(text(), 'For Sale')]")
+        forsale.click()
+        time.sleep(10)
+        plistings = driver.find_element_by_xpath("//span[@class='listing-type-text' and contains(text(), 'Potential Listings')]")
+        plistings.click()
+        time.sleep(10)
+
+
+        #filter on 4+bedrooms only - class='Option', text='3+'
+        #beds-menu-label
+        driver.find_element_by_id("beds-menu-label").click()
+        beds = driver.find_element_by_xpath("//a[@class='option' and contains(text(), '3+')]").click()
+        time.sleep(10)
+
+    except (TimeoutException, NoSuchElementException):
+        raise ValueError("Clicking the 'Recently Sold' button failed")
+    # Check to make sure a captcha page is not displayed
     check_for_captcha(driver)
 
 def enter_search_term(driver, search_term):
@@ -126,25 +159,25 @@ def get_html(driver):
         except TimeoutException:
             pass
         # Check to see if a "next page" link exists.
-        keep_going = _is_element_displayed(driver, "zsg-pagination-next", 
+        keep_going = _is_element_displayed(driver, "zsg-pagination-next",
                                            "class")
         if keep_going:
-            # Test to ensure the "updating results" image isnt displayed. 
-            # Will try up to 5 times before giving up, with a 5 second wait 
-            # between each try.             
+            # Test to ensure the "updating results" image isnt displayed.
+            # Will try up to 5 times before giving up, with a 5 second wait
+            # between each try.
             tries = 5
-            cover = _is_element_displayed(driver, 
-                                          "list-loading-message-cover", 
+            cover = _is_element_displayed(driver,
+                                          "list-loading-message-cover",
                                           "class")
             while cover and tries > 0:
                 time.sleep(5)
                 tries -= 1
-                cover = _is_element_displayed(driver, 
-                                              "list-loading-message-cover", 
+                cover = _is_element_displayed(driver,
+                                              "list-loading-message-cover",
                                               "class")
-            # If the "updating results" image is confirmed to be gone 
-            # (cover == False), click next page. Otherwise, give up on trying 
-            # to click thru to the next page of house results, and return the 
+            # If the "updating results" image is confirmed to be gone
+            # (cover == False), click next page. Otherwise, give up on trying
+            # to click thru to the next page of house results, and return the
             # results that have been scraped up to the current page.
             if not cover:
                 try:
@@ -174,7 +207,7 @@ def _is_empty(obj):
     else:
         return(False)
 
-# For most listings, card_info will contain info on number of bedrooms, 
+# For most listings, card_info will contain info on number of bedrooms,
 # number of bathrooms, square footage, and sometimes price.
 def get_card_info(soup_obj):
     try:
@@ -234,7 +267,7 @@ def get_price(soup_obj, list_obj):
     except (ValueError, AttributeError):
         # If that fails, look for price within list_obj (object "card_info").
         try:
-            price = [n for n in list_obj 
+            price = [n for n in list_obj
                          if any(["$" in n, "K" in n, "k" in n])]
             if len(price) > 0:
                 price = price[0].split(" ")
